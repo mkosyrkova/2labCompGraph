@@ -1,0 +1,7 @@
+Debug/
+currentVersRender/Debug/
+.vs/
+*.sln
+*.vcxproj
+*.filters
+*.user

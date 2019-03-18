@@ -1,0 +1,7 @@
+Debug/
+voidTriangle/Debug/
+.vs/
+*.sln
+*.vcxproj
+*.filters
+*.user

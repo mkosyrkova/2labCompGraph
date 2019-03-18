@@ -1,0 +1,7 @@
+Debug/
+zbuffer/Debug/
+.vs/
+*.sln
+*.vcxproj
+*.filters
+*.user
